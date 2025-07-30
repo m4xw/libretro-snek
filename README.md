@@ -19,5 +19,4 @@ The resulting binary or object file can be used as a core in a libretro-compatib
 - GCC or compatible C compiler
 - Make
 
-- m4xw
-- 
+By m4xw

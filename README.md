@@ -1,6 +1,9 @@
+
 # Snek Core
 
 This project implements the core logic for a simple Snake game in C.
+
+![Snek Core Screenshot](docs/snek_core.png)
 
 To build the project, use the provided `Makefile`. Open a terminal in the project directory and run:
 
